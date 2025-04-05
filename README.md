@@ -3,3 +3,4 @@ devops repo
 devops as main to master
 i have recieved the file and made changes in my local machine.
 recieved local repo
+difference between fetch and pull

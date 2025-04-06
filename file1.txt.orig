@@ -1,0 +1,9 @@
+git version 1
+<<<<<<< HEAD
+changes made to master
+
+Git conflict resolving "1st change made on master"
+=======
+
+2nd changes made in "My Branch"
+>>>>>>> MyBranch
